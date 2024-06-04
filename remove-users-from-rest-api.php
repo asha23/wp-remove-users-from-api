@@ -5,7 +5,7 @@
  * Author:              Ash Whiting for BrightLocal
  * Author URI:          https://brightlocal.com
  * Text Domain:         disable-rest-api-user-endpoints
- * Version:             1.0.3
+ * Version:             1.0.0
  * License:             GPL v2 or later
  * License URI:         https://www.gnu.org/licenses/gpl-2.0.html
  * GitHub Plugin URI: 	https://github.com/asha23/wp-remove-users-from-api
