@@ -4,10 +4,13 @@
  * Description:         Disable the Users REST API user endpoint for security reasons.
  * Author:              Ash Whiting for BrightLocal
  * Author URI:          https://brightlocal.com
- * Text Domain:         smntcs-disable-rest-api-user-endpoints
+ * Text Domain:         disable-rest-api-user-endpoints
  * Version:             1.0.3
  * License:             GPL v2 or later
  * License URI:         https://www.gnu.org/licenses/gpl-2.0.html
+ * GitHub Plugin URI: 	https://github.com/asha23/wp-remove-users-from-api
+ * Primary Branch: 	main
+ * Release Asset: true
  *
  * @package bl_disable_rest_users
  */
